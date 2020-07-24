@@ -1,4 +1,4 @@
-# Character-Creator
+# Character Creator
 
 > An RPG character creator application built using Python and MySQL.
 
