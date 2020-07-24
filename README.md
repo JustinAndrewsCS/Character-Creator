@@ -1,4 +1,4 @@
-# CharacterCreator
+# Character-Creator
 
 > An RPG character creator application built using Python and MySQL.
 
@@ -13,13 +13,13 @@
 ## Description
 
 An RPG character creator application built using Python and MySQL. Created by Justin Andrews and Matthieu Privat.
-This project was created for the class Files and Database Systems, CS317, at Embry-Riddle Aeronautical University.
+This project was created for my Files and Database Systems class, CS317, at Embry-Riddle Aeronautical University.
 
 #### Technologies
 - Python
 - MySQL
 
-[Back to the Top](#CharacterCreator)
+[Back to the Top](#Character-Creator)
 
 ---
 
@@ -37,7 +37,7 @@ To use this application first run it. This will display a menu. From the menu, c
 This will display a text pop up in the console. Follow the directions of the text pop up until the action is completed.
 If you would like to do another action, choose it from the menu and repeat this process.
 
-[Back to the Top](#CharacterCreator)
+[Back to the Top](#Character-Creator)
 
 ---
 
@@ -49,4 +49,4 @@ Justin Andrews:
 - LinkedIn - [justin-andrews-cs](https://www.linkedin.com/in/justin-andrews-cs/)
 - Github - [JustinAndrewsCS](https://github.com/JustinAndrewsCS)
 
-[Back to the Top](#CharacterCreator)
+[Back to the Top](#Character-Creator)
