@@ -19,7 +19,7 @@ This project was created for Files and Database Systems, CS317, at Embry-Riddle 
 - Python
 - MySQL
 
-[Back to the Top](#read-me-template)
+[Back to the Top](#CharacterCreator)
 
 ---
 
@@ -37,7 +37,7 @@ To use this application first run it. This will display a menu. From the menu, c
 This will display a text pop up in the console. Follow the directions of the text pop up until the action is completed.
 If you would like to do another action, choose it from the menu and repeat this process.
 
-[Back to the Top](#read-me-template)
+[Back to the Top](#CharacterCreator)
 
 ---
 
@@ -49,4 +49,4 @@ Justin Andrews:
 - LinkedIn - [justin-andrews-cs](https://www.linkedin.com/in/justin-andrews-cs/)
 - Github - [JustinAndrewsCS](https://github.com/JustinAndrewsCS)
 
-[Back to the Top](#read-me-template)
+[Back to the Top](#CharacterCreator)
